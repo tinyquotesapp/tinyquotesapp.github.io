@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tinyquotesapp.github.io/sitemap.xml
